@@ -59,3 +59,4 @@
 
 (setq ring-bell-function 'ignore)
 
+(require 'xscheme)
